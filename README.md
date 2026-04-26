@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer || Unity Junior || Languages: C & C# & JAVA || HTML 
+Software Developer || Unity Junior 
 
 
 ## 🌐 Socials:
